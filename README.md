@@ -30,5 +30,5 @@ Some gulp boilerplate for common tasks
 
 ## Usage
 
-`npm install`
-`gulp`
+- `npm install`
+- `gulp`
